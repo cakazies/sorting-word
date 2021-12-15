@@ -1,0 +1,8 @@
+.env
+.idea
+
+vendor/
+
+*.exe
+*.out
+*.html
